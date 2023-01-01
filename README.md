@@ -1,5 +1,10 @@
-# Windows dev/creator setup
-This repository contains a winget auto-installer script of a list of tools that I use on my computer for both development environment and content creation/editing. 
+# Windows Apps Auto-Installer Script
 
-Feel free to add/modify the list of tools included. To automatically install the applications forgetting the boring "next, next, install" just run the .ps1 file from the PowerShell or Windows Terminal.
+No more boring "next, next, install" installation process for your applications. This script automatically installs the apps I use for web development and content creation.
+
+### Feel free to edit the script to include your suggested apps. Here you will find more applications to include: https://winget.run/
+
+
+## How to use
+Run as administrator your Windows Terminal or Powershell Console and run the script from there. You will have to give permission at startup, then Windows will be able to install all the applications by itself.
 
